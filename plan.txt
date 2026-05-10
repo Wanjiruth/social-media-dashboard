@@ -1,0 +1,29 @@
+PROJECT PLAN - SOCIAL MEDIA APP
+
+CORE FEATURES
+----------------
+[x] Authentication
+    - Login (Email/Password)
+    - Register (with validation)
+    - Google OAuth Integration
+    - Guest/Protected Routes
+[x] Posts
+    - Feed (Infinite Scroll)
+    - Create Post (Image Upload, Caption)
+    - Post Details (View single post)
+    - Likes & Claims (In progress)
+[x] Profile
+    - View Profile (User details, posts)
+    - Edit Profile (Image cropping, info update)
+[~] Chat
+    - Chat Page UI
+
+2. UI/UX & THEMING
+------------------
+[x] Responsive Design (Mobile/Desktop)
+[x] Theme System (Light/Dark/System)
+[x] Animations (GSAP, Framer Motion)
+[x] Components
+    - Buttons, Inputs, Modals
+    - Loaders, Toasts
+
