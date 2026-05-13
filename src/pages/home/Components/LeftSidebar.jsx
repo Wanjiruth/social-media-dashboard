@@ -113,27 +113,26 @@ const LeftSidebar = () => {
         <ul className="text-xs">
           {" "}
           <p className="text-md">
-            © All rights reserved {new Date().getFullYear()} Mohamed Fawzi - UI
-            & Code{" "}
+            © All rights reserved {new Date().getFullYear()} Ruth Njoki{" "}
           </p>
           <li>
             Email:{" "}
             <a
-              href="mailto:muhammadfawzei@gmail.com"
+              href="mailto:ruth.engineer49@gmail.com"
               target="_blank"
               className="hover:text-slate-400 duration-300"
             >
-              muhammadfawzei@gmail.com
+              ruth.engineer49@gmail.com
             </a>
           </li>
           <li>
-            Phone: {<br></br>}
+            GitHub: {<br></br>}
             <a
-              href="tel:+201066587947"
+              href="https://github.com/wanjiruth"
               target="_blank"
               className="hover:text-slate-400 duration-300"
             >
-              01066587947
+              wanjiruth
             </a>
           </li>
         </ul>
